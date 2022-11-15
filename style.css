@@ -2,12 +2,23 @@ body {
     background-color: #18181b;
 }
 
+.logo {
+    width: 3%;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    align-items: center;
+    top: 94%;
+}
+
 h1 {
     color: #5aa1ed;
     font-size: 70px;
     font-family: 'Fragment Mono', monospace;
     text-align: center
 }
+
+
 
 h2 {
     color: #5aa1ed;
@@ -25,6 +36,7 @@ h2 {
     top: 10%;
     filter: invert(100%);
 }
+
 
 ----------------
 
