@@ -4,7 +4,7 @@
 
 # typpers.com
 * An open-source notepad
-* You can see the current build of the site [here.](https://typpers.netlify.app/)
+* You can see the current build of the site [here](https://typpers.netlify.app/)
 
 # To Do
 * Add the notepad lol
