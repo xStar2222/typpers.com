@@ -10,6 +10,7 @@
 * Add the notepad lol
 * Make text downloadable as .txt file
 * Dark / Light mode
+* Make typpers.com a dowmloadable exe
 
 # Current Version:
 ![Current Build](https://user-images.githubusercontent.com/57399280/202326503-2fe24dd6-9bbe-41d2-a97a-ee18341bf204.png)
