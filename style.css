@@ -1,5 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
 body {
     background-color: #18181b;
+    margin: 0 auto;
 }
 
 .logo {
@@ -11,6 +18,14 @@ body {
     top: 94%;
 }
 
+.icon {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    margin-top: 25em;
+}
 
 .poo {
     width: 3%;
@@ -30,6 +45,7 @@ h1 {
     font-family: 'Fragment Mono', monospace;
     text-align: center;
     padding: 15px 0px 15px 0px;
+    text-align: center;
 }
 
 
@@ -51,30 +67,20 @@ h2 {
     filter: invert(100%);
 }
 
-
-----------------
-
-body {
-    font-family: sans-serif;
-    background-color: #81d4fa;
-    font-weight: bold;
-}
-
 .text-box {
     margin-left: 44vw;
-   margin-top: 30vh;
+   margin-top: -48vh;
    font-family: 'Fragment Mono', monospace;
 }
 
 .btn:link,
 .btn:visited {
-    text-transform: uppercase;
     text-decoration: none;
     padding: 15px 40px;
     display: inline-block;
     border-radius: 100px;
     transition: all .2s;
-    position: absolute;
+    position: relative;
 }
 
 .btn:hover {
