@@ -13,4 +13,4 @@
 * Make typpers.com a dowmloadable exe
 
 # Current Version:
-![Current Build](https://imgur.com/a/qkFdGZZ)
+![Current Build](https://media.discordapp.net/attachments/988296406144008212/1042607317142753350/image.png?width=1389&height=676)
