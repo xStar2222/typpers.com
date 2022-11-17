@@ -11,6 +11,7 @@
 * Make text downloadable as .txt file
 * Dark / Light mode
 * Make typpers.com a dowmloadable exe
+* Mobile browser support
 
 # Current Version:
 ![Current Build](https://media.discordapp.net/attachments/988296406144008212/1042607317142753350/image.png?width=1389&height=676)
