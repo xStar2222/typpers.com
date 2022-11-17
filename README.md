@@ -12,4 +12,4 @@
 * Dark / Light mode
 
 # Current Version:
-![Current Build]([https://media.discordapp.net/attachments/988296406144008212/1042601178220990545/image.png?width=1391&height=676])
+![Current Build](https://media.discordapp.net/attachments/988296406144008212/1042601178220990545/image.png?width=1391&height=676)
